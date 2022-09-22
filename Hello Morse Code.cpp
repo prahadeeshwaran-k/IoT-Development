@@ -48,5 +48,5 @@ void loop() {
   l();
   l();
   o();
-  delay(3000)
+  delay(3000);
 }
